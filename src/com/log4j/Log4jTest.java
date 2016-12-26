@@ -17,5 +17,7 @@ public class Log4jTest {
 		
 		logger.debug("ssss");
 		
+		logger.info("test.....");
+		
 	}
 }
